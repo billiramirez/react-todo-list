@@ -1,5 +1,9 @@
-# react-playlist
-All the course files for the Net Ninja React tutorial playlist on YouTube
+#React todo-list
+This is a simple React todo-list, using the following technologies:
 
-# How to use these files
-Each of the branches in this repo refers to the starting point of a particular lesson in the playlist. Just checkout the branch / lesson that you need.
+*react-router
+*webpack, webpack-dev-server
+*babel-preset-es2015 babel-core babel-loader babel-preset-react
+*nodejs
+*style-loader
+*react-dom 

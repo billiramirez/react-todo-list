@@ -1,7 +1,7 @@
 {
-  "name": "react-playlist",
+  "name": "react-todo-list",
   "version": "1.0.0",
-  "description": "All the course files for the Net Ninja React tutorial playlist on YouTube",
+  "description": "Todo list React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/react-playlist.git"
+    "url": "https://github.com/salmonelopan/react-todo-list.git"
   },
   "author": "Billi Ramirez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/react-playlist/issues"
+    "url": "https://github.com/salmonelopan/react-todo-list/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/react-playlist#readme",
+  "homepage": "https://github.com/salmonelopan/react-todo-list/blob/master/README.md",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
